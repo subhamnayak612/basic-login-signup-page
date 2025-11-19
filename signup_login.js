@@ -1,3 +1,4 @@
+
 function validateEmail() {
     let email = document.getElementById("Email").value;
 
